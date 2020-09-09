@@ -6,6 +6,7 @@ import RoomScreen  from '../Screens/RoomScreen.js';
 import SetupScreen from '../Screens/SetupScreen.js';  
 
 import { createStackNavigator } from '@react-navigation/stack';
+import Vid from './Vid';
 
 const Stack = createStackNavigator();
 
